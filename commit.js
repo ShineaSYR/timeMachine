@@ -7,11 +7,11 @@ const repoPath = './';
 const commitMessagePrefix = 'Batch commit:';
 
 // Array of file paths to be committed
-const filesToCommit = [
-  'file1.txt',
-  'file2.js',
-  'directory/file3.md',
-];
+// const filesToCommit = [
+//   'file1.txt',
+//   'file2.js',
+//   'directory/file3.md',
+// ];
 const numFiles = 20
 
 // Function to execute the Git commands
